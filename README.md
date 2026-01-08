@@ -31,7 +31,7 @@ This project is an extension of the original “Arduino Computer Vision Finger C
 3.	Connect GND from Arduino to the breadboard.
 4.	Place 5 LEDs on the breadboard and connect them to Arduino digital pins 3–7.
 5.	Connect each LED through a 220 Ω resistor to GND.
-![Arduino Setup](images/arduino_setup.jpg)
+![Arduino Setup](images/arduino_setup.png)
 
 ## How to run the project?
 1. Install project zip, Python, all libraries mentioned above, and Arduino IDE
