@@ -18,7 +18,7 @@ This project is an extension of the original “Arduino Computer Vision Finger C
 - Python 3.10–3.14
 - opencv-python
 - mediapipe==0.10.9
-- pyserial
+- serial
 - Arduino microcontroller
 - Breadboard, LEDs, resistors, jumper wires
 
