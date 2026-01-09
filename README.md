@@ -1,4 +1,4 @@
-This project combines Electronics and Computer Vision using an Arduino microcontroller and Python libraries such as MediaPipe and OpenCV for finger detection, and pyserial for Arduino–Python communication.
+This project combines Electronics and Computer Vision using an Arduino microcontroller and Python libraries such as MediaPipe and OpenCV for finger detection, and Serial for Arduino–Python communication.
 
 This project is an extension of the original “Arduino Computer Vision Finger Counter” by [@vbookshelf](https://github.com/vbookshelf).
 
